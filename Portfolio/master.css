@@ -36,4 +36,6 @@ h1 {
 
 .top-cloud{
     position: absolute;
+    right: 300px;
+    top: 50px;
 }
