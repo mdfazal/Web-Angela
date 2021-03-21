@@ -2,3 +2,5 @@ favicon.cc
 color hunt
 UI PATH
 Dribble
+sneakpeekit
+balsamiq [industry standard]
