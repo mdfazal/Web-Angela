@@ -21,5 +21,7 @@ if (age < 5){
     console.log("You are a senior pay $10");
 }
 
-
+if (age > 5){
+    
+}
 
