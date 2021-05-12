@@ -4,3 +4,7 @@ function sing(){
     console.log("Mi");
 }
 sing();
+ 
+function greet(firstname, lastname){
+    console.log(`firstName is ${firstname} ${lastname}`);
+} 
