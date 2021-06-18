@@ -30,7 +30,6 @@ function updateScores(player, opponent){
     }
 }
 
-
 p1.button.addEventListener('click', function(){
     updateScores(p1,p2)
 })
